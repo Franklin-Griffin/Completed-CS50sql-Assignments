@@ -1,0 +1,1 @@
+SELECT AVG(height) AS "Average Height", AVG(weight) AS "Average Weight" FROM players;
