@@ -1,1 +1,1 @@
-SELECT birth_country AS "Birth Country" ORDER BY first_name DESC, last_name DESC;
+SELECT birth_country AS "Birth Country" FROM players ORDER BY first_name DESC, last_name DESC;
